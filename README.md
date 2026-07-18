@@ -69,7 +69,7 @@ I enjoy designing clean architectures, building secure backend APIs, and craftin
 
 ## Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql"/>
 
 ## Tools
 
