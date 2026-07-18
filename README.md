@@ -1,108 +1,310 @@
-<h1 align="center">Hi 👋, I'm Syed Rizwan A</h1>
-<h3 align="center">Flutter & MERN Stack Developer | Building real-time cross-platform apps</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Syed%20Rizwan%20A&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+
+# 👋 Hello, I'm Syed Rizwan
+
+### Software Engineer • Full Stack Developer • Flutter Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F9DFF&center=true&vCenter=true&width=850&lines=Building+Scalable+Applications;Flutter+Developer;MERN+Stack+Developer;Firebase+Specialist;AI+Integrated+Applications;Always+Learning+New+Technologies" />
+
+<p>
+
+<a href="https://syed-rizwan-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/syed-rizwan-9436742ba/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:syedrizwan00211@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=syed2006-hub&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a passionate **Software Engineer** who enjoys building scalable mobile and web applications that solve real-world problems.
+
+Over the last two years, I've worked on enterprise software, AI-powered applications, payroll systems, event management platforms, business websites, and cross-platform mobile applications using Flutter and the MERN Stack.
+
+I enjoy designing clean architectures, building secure backend APIs, and crafting intuitive user experiences.
+
+---
+
+## 🚀 Current Focus
+
+- 📱 Cross-platform Mobile Development
+- 🌐 Full Stack Web Development
+- ☁ Cloud Technologies
+- 🤖 AI Integration
+- ⚙ System Design
+- 🚀 DevOps Fundamentals
+
+---
+
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,dart,java,python,c,cpp,html,css"/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=flutter,react,tailwind,vite"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,androidstudio"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🎯 ClubZen
+
+A complete Club & Event Management Platform for colleges.
+
+### Features
+
+- Event Registration
+- QR Ticket Generation
+- QR Attendance
+- Dynamic Registration Forms
+- Role Based Authentication
+- Club Discovery
+- Push Notifications
+- Admin Dashboard
+- Event Calendar
+
+**Tech**
+
+Flutter • Firebase • Cloud Functions • Firestore • Cloudinary
+
+---
+
+## 🤖 Career Clarity Companion (C Cube)
+
+🏆 Hackathon Winning AI Platform
+
+An AI-powered career guidance system helping students discover learning paths, internships, certifications, and personalized recommendations.
+
+**Tech**
+
+Flutter • Firebase • Gemini AI • Google OAuth
+
+---
+
+## 💼 PayrollPro
+
+Enterprise Payroll Management System
+
+- Salary Processing
+- Leave Management
+- Employee Portal
+- Payslip Generation
+- HR Dashboard
+- Finance Dashboard
+- Role Based Access
+
+**Tech**
+
+React • Node.js • Express • MongoDB
+
+---
+
+## 🛒 Trendera
+
+AI-powered E-Commerce Platform
+
+- AI Product Search
+- Authentication
+- Wishlist
+- Cart
+- Secure Checkout
+
+**Tech**
+
+Flutter • Firebase • Riverpod • Gemini AI
+
+---
+
+## 🎨 Logo Studio
+
+Professional Logo Design Platform
+
+- Canva Style Editor
+- AI Logo Analysis
+- Originality Checker
+- Admin Dashboard
+
+---
+
+## 💃 Vibrant Dance Academy
+
+Business Website with CMS
+
+- Responsive Website
+- Admin Panel
+- Enquiry Management
+- Social Integration
+
+---
+
+# 💼 Experience
+
+## MERN Stack Developer Intern
+
+**IBM (Remote)**
+
+- Developed a Payroll Management System inspired by Zoho Payroll
+- Designed secure authentication and REST APIs
+- Automated payroll calculations
+- Built analytics dashboards
+
+---
+
+## Full Stack Developer Intern
+
+**Altruisty — Chennai**
+
+- Developed multiple full-stack applications
+- Built REST APIs
+- Integrated authentication
+- Optimized databases
+
+---
+
+## Freelance Developer
+
+Developed production-ready business websites and admin dashboards for real-world clients.
+
+---
+
+# 🏆 Achievements
+
+🥉 Impactathon X AMS Hackathon
+
+🏅 Flutter & Dart Certification
+
+🏅 LinkedIn Learning
+
+🏅 Multiple Production Projects
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=syed2006-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed2006-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syed2006-hub&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syed2006-hub&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=syed2006-hub&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 💡 Areas of Interest
+
+- Software Engineering
+- Mobile Development
+- Full Stack Development
+- Firebase Ecosystem
+- AI Applications
+- Cloud Computing
+- DevOps
+- System Design
+
+---
+
+# 🌍 Languages
+
+- English
+- Tamil
+- Hindi
+- Urdu
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://syed-rizwan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"></a>
-  <a href="https://www.linkedin.com/in/syed-rizwan-9436742ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:syedrizwan00211@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://syed-rizwan-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/syed-rizwan-9436742ba/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:syedrizwan00211@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 About Me
+<div align="center">
 
-- 🎓 B.E. in Computer Science & Engineering, Aalim Muhammed Salegh College of Engineering (Anna University) — Expected Graduation **2027**
-- 💻 Passionate about building real-time, cross-platform mobile and web applications
-- 🛠️ Skilled in **Flutter, React, Node.js, MongoDB, Firebase**, and REST API integration
-- 🤖 Growing exposure to **AI integration** and **Power BI data visualization**
-- 🏆 3rd Prize winner — Impactathon X AMS Hackathon
-- 🌱 Focused on clean architecture, user-centric design, and scalable solutions
-- 📫 Reach me at **syedrizwan00211@gmail.com**
+## 💭 Quote
+
+> *"Great software is not just about writing code—it's about solving meaningful problems through thoughtful engineering."*
 
 ---
 
-### 🧰 Tech Stack
+⭐ **If you find my work interesting, consider starring my repositories!**
 
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,30"/>
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Database**
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### 💼 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Club Zen](https://syed-rizwan-portfolio.vercel.app/)** — Club & Event Management App | Campus club/event platform with digital ticket entry, real-time notifications, and role-based auth for students & admins | Flutter, Firebase |
-| **[C Cube](https://syed-rizwan-portfolio.vercel.app/)** — Career Clarity Companion 🏆 *3rd Prize, Hackathon* | Smart recommendations for courses, internships & projects with college-domain auth, leaderboards, and personalized career roadmaps | Flutter, Firebase, RapidAPI, Google OAuth |
-| **[Trendera](https://syed-rizwan-portfolio.vercel.app/)** — AI E-Commerce App | Full-featured shopping app with AI image-based product search and Google OAuth login | Flutter, Firebase, Gemini AI, Riverpod |
-| **[PayrollPro](https://syed-rizwan-portfolio.vercel.app/)** — Enterprise Payroll Management System | Automated salary processing, PF/ESI compliance, super admin dashboard with payroll analytics, encrypted multi-role auth | MERN Stack |
-| **[Logo Studio](https://syed-rizwan-portfolio.vercel.app/)** — Logo Analysis & Design Platform | Pixel-matching originality checker, Canva-style logo editor, and admin dashboard with scoring system | Full Stack Web App |
-| **[Vibrant Dance Studio](https://syed-rizwan-portfolio.vercel.app/)** — Business Website + Admin Panel | Client website with enquiry management, admin panel, and social media integration | Full Stack Web App |
-
----
-
-### 🧑‍💻 Work Experience
-
-**MERN Stack Developer Intern — IBM** *(Remote, Dec 2025 – Feb 2026)*
-Designed a Zoho-style Payroll Management System on the MERN stack with role-based authentication, secure data handling, and automated payroll analytics dashboards.
-
-**Full Stack Developer Intern — Altruisty** *(Chennai, Jan 2026)*
-Built multiple full-stack web apps with responsive UIs, REST API integration, authentication systems, and optimized database structures.
-
-**Freelance Developer — Client Projects** *(Remote, Jul – Aug 2025)*
-Delivered production-ready platforms (Logo Studio, Vibrant Dance Academy) with admin dashboards, enquiry management, and CMS features for real clients.
-
----
-
-### 📜 Certifications & Achievements
-
-- 🎓 Flutter & Dart — Udemy
-- 🎓 Flutter Essentials — LinkedIn Learning
-- 🏆 3rd Prize — Impactathon X AMS Hackathon
-
----
-
-### 🌐 Languages
-English • Tamil • Hindi • Urdu
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>🔥 Passionate about turning ideas into scalable, real-world applications.</i>
-</p>
+</div>
