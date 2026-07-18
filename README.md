@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://syed-rizwan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"></a>
-  <a href="https://www.linkedin.com/in/syed-rizwan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://https://www.linkedin.com/in/syed-rizwan-9436742ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:syedrizwan00211@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
