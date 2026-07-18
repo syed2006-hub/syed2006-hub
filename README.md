@@ -57,7 +57,7 @@ I enjoy designing clean architectures, building secure backend APIs, and craftin
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,dart,java,python,c,cpp,html,css"/>
+<img src="https://skillicons.dev/icons?i=javascript,dart,java,python,c,html,css"/>
 
 ## Frontend
 
@@ -73,7 +73,7 @@ I enjoy designing clean architectures, building secure backend APIs, and craftin
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio"/>
 
 </div>
 
@@ -215,14 +215,6 @@ Developed production-ready business websites and admin dashboards for real-world
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syed2006-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed2006-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -243,15 +235,6 @@ Developed production-ready business websites and admin dashboards for real-world
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=syed2006-hub&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 💡 Areas of Interest
 
