@@ -1,284 +1,108 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm **Syed Rizwan**
-
-### 🚀 MERN & Flutter Developer | Full Stack Engineer | Problem Solver
-
-I'm a Computer Science Engineering student passionate about building scalable web and mobile applications that solve real-world problems.
-
-Over the past two years, I've built multiple full-stack applications ranging from club management systems and payroll software to AI-powered career guidance platforms and restaurant websites. I enjoy transforming ideas into production-ready applications with clean architecture, efficient APIs, and modern UI/UX.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.E. Computer Science Engineering
-* 📍 Chennai, India
-* 💻 Full Stack & Flutter Developer
-* 📱 Passionate about Cross Platform Mobile Development
-* 🌱 Currently exploring Cloud Technologies, DevOps and System Design
-* 🤝 Love collaborating on impactful projects
-* 🚀 Always learning new technologies and improving engineering skills
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,dart,python,c,cpp,html,css"/>
-</p>
-
----
-
-## Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,react,tailwind,vite"/>
-</p>
-
----
-
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb"/>
-</p>
-
----
-
-## Cloud & Services
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,cloudflare"/>
-</p>
-
-* Firebase Authentication
-* Firestore Database
-* Firebase Cloud Messaging
-* Firebase Storage
-* Cloudinary
-* REST APIs
-
----
-
-## Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎯 ClubZen
-
-A complete Club Management System built using Flutter & Firebase.
-
-### Features
-
-* College Club Management
-* Event Registration
-* Dynamic Forms
-* QR Ticket Generation
-* QR Attendance Scanning
-* Club Discovery
-* Event Calendar
-* Push Notifications
-* Multi-role Authentication
-* Admin Dashboard
-
-**Tech Used**
-
-Flutter • Firebase • Firestore • Cloud Functions • Cloudinary
-
----
-
-## 💼 PayrollPro
-
-Enterprise Payroll Management System
-
-### Features
-
-* Employee Management
-* Payroll Processing
-* Payslip Generation
-* Attendance
-* Leave Management
-* Role Based Authentication
-* Finance Dashboard
-
-**Tech Used**
-
-React • Node.js • Express.js • MongoDB
-
----
-
-## 🤖 Career Clarity Companion (C Cube)
-
-AI-powered career guidance platform developed for a National Hackathon.
-
-### Features
-
-* AI Career Recommendation
-* Skill Assessment
-* Learning Roadmap
-* Resume Guidance
-* Personalized Suggestions
-
-**Tech Used**
-
-Flutter • Firebase • AI APIs
-
----
-
-## 🍽 Arusuvai Cloud Kitchen Website
-
-Modern responsive restaurant website.
-
-### Features
-
-* Beautiful Landing Page
-* Menu Display
-* Responsive Design
-* Contact Integration
-* Smooth Animations
-
-**Tech Used**
-
-React • Tailwind CSS • Vite
-
----
-
-## 📰 KnowNow
-
-Real-time News Application
-
-* Category-wise News
-* Search
-* Trending News
-* Responsive UI
-
-**Tech Used**
-
-Flutter • REST APIs
-
----
-
-## 🌤 Weather Application
-
-Weather forecasting app using weather APIs.
-
-* Live Weather
-* Temperature
-* Forecast
-* Location Search
-
----
-
-## 👨‍👩‍👧 Family Tree Application
-
-Family relationship visualization app.
-
----
-
-## 🎨 Logo Studio
-
-Logo creation and customization application.
-
----
-
-# 📊 GitHub Statistics
+<h1 align="center">Hi 👋, I'm Syed Rizwan A</h1>
+<h3 align="center">Flutter & MERN Stack Developer | Building real-time cross-platform apps</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syed2006-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed2006-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://syed-rizwan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"></a>
+  <a href="https://www.linkedin.com/in/syed-rizwan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:syedrizwan00211@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 B.E. in Computer Science & Engineering, Aalim Muhammed Salegh College of Engineering (Anna University) — Expected Graduation **2027**
+- 💻 Passionate about building real-time, cross-platform mobile and web applications
+- 🛠️ Skilled in **Flutter, React, Node.js, MongoDB, Firebase**, and REST API integration
+- 🤖 Growing exposure to **AI integration** and **Power BI data visualization**
+- 🏆 3rd Prize winner — Impactathon X AMS Hackathon
+- 🌱 Focused on clean architecture, user-centric design, and scalable solutions
+- 📫 Reach me at **syedrizwan00211@gmail.com**
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Database**
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Club Zen](https://syed-rizwan-portfolio.vercel.app/)** — Club & Event Management App | Campus club/event platform with digital ticket entry, real-time notifications, and role-based auth for students & admins | Flutter, Firebase |
+| **[C Cube](https://syed-rizwan-portfolio.vercel.app/)** — Career Clarity Companion 🏆 *3rd Prize, Hackathon* | Smart recommendations for courses, internships & projects with college-domain auth, leaderboards, and personalized career roadmaps | Flutter, Firebase, RapidAPI, Google OAuth |
+| **[Trendera](https://syed-rizwan-portfolio.vercel.app/)** — AI E-Commerce App | Full-featured shopping app with AI image-based product search and Google OAuth login | Flutter, Firebase, Gemini AI, Riverpod |
+| **[PayrollPro](https://syed-rizwan-portfolio.vercel.app/)** — Enterprise Payroll Management System | Automated salary processing, PF/ESI compliance, super admin dashboard with payroll analytics, encrypted multi-role auth | MERN Stack |
+| **[Logo Studio](https://syed-rizwan-portfolio.vercel.app/)** — Logo Analysis & Design Platform | Pixel-matching originality checker, Canva-style logo editor, and admin dashboard with scoring system | Full Stack Web App |
+| **[Vibrant Dance Studio](https://syed-rizwan-portfolio.vercel.app/)** — Business Website + Admin Panel | Client website with enquiry management, admin panel, and social media integration | Full Stack Web App |
+
+---
+
+### 🧑‍💻 Work Experience
+
+**MERN Stack Developer Intern — IBM** *(Remote, Dec 2025 – Feb 2026)*
+Designed a Zoho-style Payroll Management System on the MERN stack with role-based authentication, secure data handling, and automated payroll analytics dashboards.
+
+**Full Stack Developer Intern — Altruisty** *(Chennai, Jan 2026)*
+Built multiple full-stack web apps with responsive UIs, REST API integration, authentication systems, and optimized database structures.
+
+**Freelance Developer — Client Projects** *(Remote, Jul – Aug 2025)*
+Delivered production-ready platforms (Logo Studio, Vibrant Dance Academy) with admin dashboards, enquiry management, and CMS features for real clients.
+
+---
+
+### 📜 Certifications & Achievements
+
+- 🎓 Flutter & Dart — Udemy
+- 🎓 Flutter Essentials — LinkedIn Learning
+- 🏆 3rd Prize — Impactathon X AMS Hackathon
+
+---
+
+### 🌐 Languages
+English • Tamil • Hindi • Urdu
 
 ---
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syed2006-hub&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=syed2006-hub&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syed2006-hub&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💡 What I Love Building
-
-* 📱 Mobile Applications
-* 🌐 Full Stack Web Applications
-* 🔥 Firebase Powered Apps
-* ⚡ REST APIs
-* 🤖 AI Integrated Solutions
-* 🎨 Beautiful User Interfaces
-* 📊 Dashboard Systems
-* 🚀 Scalable Software Architecture
-
----
-
-# 🤝 Let's Connect
-
-<p>
-
-<a href="https://github.com/syed2006-hub">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💭 Quote
-
-> *"Great software isn't just built with code—it's built by solving meaningful problems with creativity, collaboration, and continuous learning."*
-
----
-
-<p align="center">
-
-### ⭐ If you like my work, consider giving my repositories a star!
-
-Thanks for visiting my profile! 🚀
-
+  <i>🔥 Passionate about turning ideas into scalable, real-world applications.</i>
 </p>
