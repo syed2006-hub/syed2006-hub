@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Syed%20Rizwan%20A&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=Syed%20Rizwan%20A&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
 
 # 👋 Hello, I'm Syed Rizwan
 
